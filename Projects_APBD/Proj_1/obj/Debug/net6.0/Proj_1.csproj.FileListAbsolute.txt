@@ -1,0 +1,15 @@
+D:\PJATK\Projects_APBD\Proj_1\bin\Debug\net6.0\Proj_1.exe
+D:\PJATK\Projects_APBD\Proj_1\bin\Debug\net6.0\Proj_1.deps.json
+D:\PJATK\Projects_APBD\Proj_1\bin\Debug\net6.0\Proj_1.runtimeconfig.json
+D:\PJATK\Projects_APBD\Proj_1\bin\Debug\net6.0\Proj_1.dll
+D:\PJATK\Projects_APBD\Proj_1\bin\Debug\net6.0\Proj_1.pdb
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.csproj.AssemblyReference.cache
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.AssemblyInfoInputs.cache
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.AssemblyInfo.cs
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.csproj.CoreCompileInputs.cache
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.dll
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\refint\Proj_1.dll
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.pdb
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\Proj_1.genruntimeconfig.cache
+D:\PJATK\Projects_APBD\Proj_1\obj\Debug\net6.0\ref\Proj_1.dll
